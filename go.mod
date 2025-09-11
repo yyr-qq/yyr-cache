@@ -1,4 +1,4 @@
-module github.com/tiger1103/gfast-cache
+module github.com/yyryydyyx/rs-cache
 
 go 1.23.0
 

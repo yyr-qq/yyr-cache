@@ -10,12 +10,13 @@ package test
 import (
 	"context"
 	"fmt"
+	"testing"
+
 	_ "github.com/gogf/gf/contrib/nosql/redis/v2"
 	"github.com/gogf/gf/v2/database/gredis"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/tiger1103/gfast-cache/adapter"
-	"github.com/tiger1103/gfast-cache/cache"
-	"testing"
+	"github.com/yyryydyyx/rs-cache/adapter"
+	"github.com/yyryydyyx/rs-cache/cache"
 )
 
 func TestBatch(t *testing.T) {

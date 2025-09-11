@@ -1,4 +1,4 @@
-# gfast-cache
+# rs-cache
 cache with memory or redis
 
 ## Requirements
@@ -10,14 +10,14 @@ gf version >= v2.0.0
 ## Installation
 
 ```shell script
-go get -u github.com/tiger1103/gfast-cache
+go get -u github.com/yyryydyyx/rs-cache
 ```
 
 ## Usage
 
 ### Import
 ```go
-import "github.com/tiger1103/gfast-cache"
+import "github.com/yyryydyyx/rs-cache"
 ```
 
 ### Memory Cache

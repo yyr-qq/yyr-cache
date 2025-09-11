@@ -7,8 +7,9 @@
 package instance_test
 
 import (
-	"github.com/tiger1103/gfast-cache/instance"
 	"testing"
+
+	"github.com/yyryydyyx/rs-cache/instance"
 
 	"github.com/gogf/gf/v2/test/gtest"
 )
