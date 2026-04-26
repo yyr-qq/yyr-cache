@@ -9,7 +9,7 @@ package instance_test
 import (
 	"testing"
 
-	"github.com/yyryydyyx/rs-cache/instance"
+	"github.com/yyr-qq/yyr-cache/instance"
 
 	"github.com/gogf/gf/v2/test/gtest"
 )

@@ -19,8 +19,8 @@ import (
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gcache"
 	"github.com/gogf/gf/v2/util/gconv"
-	"github.com/yyryydyyx/rs-cache/adapter"
-	"github.com/yyryydyyx/rs-cache/instance"
+	"github.com/yyr-qq/yyr-cache/adapter"
+	"github.com/yyr-qq/yyr-cache/instance"
 )
 
 type IGCache interface {

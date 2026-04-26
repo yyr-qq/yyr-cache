@@ -15,8 +15,8 @@ import (
 	_ "github.com/gogf/gf/contrib/nosql/redis/v2"
 	"github.com/gogf/gf/v2/database/gredis"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/yyryydyyx/rs-cache/adapter"
-	"github.com/yyryydyyx/rs-cache/cache"
+	"github.com/yyr-qq/yyr-cache/adapter"
+	"github.com/yyr-qq/yyr-cache/cache"
 )
 
 func TestBatch(t *testing.T) {

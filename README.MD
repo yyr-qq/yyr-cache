@@ -10,14 +10,14 @@ gf version >= v2.0.0
 ## Installation
 
 ```shell script
-go get -u github.com/yyryydyyx/rs-cache
+go get -u github.com/yyr-qq/yyr-cache
 ```
 
 ## Usage
 
 ### Import
 ```go
-import "github.com/yyryydyyx/rs-cache"
+import "github.com/yyr-qq/yyr-cache"
 ```
 
 ### Memory Cache

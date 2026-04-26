@@ -1,4 +1,4 @@
-module github.com/yyryydyyx/rs-cache
+module github.com/yyr-qq/yyr-cache
 
 go 1.23.0
 
